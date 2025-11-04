@@ -1,6 +1,6 @@
 <h1>2. PENGELOLAAN DATA PENGGUNA</h1>
 
-<h2>Create Data User</h2>
+<h2>Menambah Pengguna</h2>
 <h4>Request</h4>
 <img width="1138" height="545" alt="Screenshot 2025-11-04 080117" src="https://github.com/user-attachments/assets/cb367f8d-551f-40b2-9bdd-26ac0ecc778b" />
 <h4>Response</h4>
@@ -10,7 +10,7 @@
 
 
 
-<h2>Get Data User</h2>
+<h2>Mengambil Data Pengguna</h2>
 <h4>Request</h4>
 <img width="770" height="442" alt="Screenshot 2025-11-04 080305" src="https://github.com/user-attachments/assets/10d835a3-33c3-4cd4-b11b-c7b638cbfffd" />
 <h4>Response</h4>
@@ -18,7 +18,7 @@
 
 
 
-<h2>Update Data User</h2>
+<h2>Mengubah Data Pengguna</h2>
 <h4>Request</h4>
 <img width="770" height="412" alt="Screenshot 2025-11-04 080444" src="https://github.com/user-attachments/assets/7c56a8af-25f4-496c-9e61-873d1034f6c4" />
 <h4>Response</h4>
