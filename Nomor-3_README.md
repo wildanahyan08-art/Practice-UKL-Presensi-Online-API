@@ -7,5 +7,8 @@
 
 <h1>Get Data Presensi</h1>
 <h4>Request</h4>
+<img width="840" height="439" alt="Screenshot 2025-11-04 104730" src="https://github.com/user-attachments/assets/e9f86637-1c4c-49b7-9963-2d56aab09a46" />
+
 <h4>Response</h4>
+<img width="844" height="368" alt="Screenshot 2025-11-04 104740" src="https://github.com/user-attachments/assets/446462fc-47d4-4a97-b6eb-326579b8e596" />
 
